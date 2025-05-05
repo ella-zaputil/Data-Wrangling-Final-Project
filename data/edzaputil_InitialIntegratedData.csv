@@ -1,0 +1,41 @@
+,Movie Title,Release Year,Runtime,Genre,IMDB_Rating,Director,Star1,Star2,Star3,Star4,Ranking,Release Date,Production Budget,Domestic Gross,Worldwide Gross
+0,The Lord of the Rings: The Return of the King,2003,201,"Action, Adventure, Drama",8.9,Peter Jackson,Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom,557,2003-12-17,94000000,381472917,1123837908
+1,The Lord of the Rings: The Fellowship of the Ring,2001,178,"Action, Adventure, Drama",8.8,Peter Jackson,Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean,562,2001-12-19,93000000,318651105,894292756
+2,The Lord of the Rings: The Two Towers,2002,179,"Action, Adventure, Drama",8.7,Peter Jackson,Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom,559,2002-12-18,94000000,345115396,921711177
+3,The Departed,2006,151,"Crime, Drama, Thriller",8.5,Martin Scorsese,Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg,584,2006-10-06,90000000,132384315,289660619
+4,The Lion King,1994,88,"Animation, Adventure, Drama",8.5,Roger Allers,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones,768,1994-06-15,79300000,423981226,988389726
+5,Avengers: Endgame,2019,181,"Action, Adventure, Drama",8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Evans,Mark Ruffalo,2,2019-04-23,400000000,858373000,2748242781
+6,Avengers: Infinity War,2018,149,"Action, Adventure, Sci-Fi",8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,9,2018-04-25,300000000,678815482,2048359754
+7,The Dark Knight Rises,2012,164,"Action, Adventure",8.4,Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman,40,2012-07-19,230000000,448139099,1082228107
+8,Shutter Island,2010,138,"Mystery, Thriller",8.2,Martin Scorsese,Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,Ben Kingsley,703,2010-02-19,80000000,128012934,299461782
+9,Toy Story 3,2010,103,"Animation, Adventure, Comedy",8.2,Lee Unkrich,Tom Hanks,Tim Allen,Joan Cusack,Ned Beatty,69,2010-06-18,200000000,415004880,1068879522
+10,A Beautiful Mind,2001,135,"Biography, Drama",8.2,Ron Howard,Russell Crowe,Ed Harris,Jennifer Connelly,Christopher Plummer,771,2001-12-21,78000000,170708996,317668058
+11,Finding Nemo,2003,100,"Animation, Adventure, Comedy",8.1,Andrew Stanton,Lee Unkrich,Albert Brooks,Ellen DeGeneres,Alexander Gould,558,2003-05-30,94000000,380529370,936094852
+12,The Avengers,2012,143,"Action, Adventure, Sci-Fi",8.0,Joss Whedon,Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner,43,2012-04-25,225000000,623357910,1515100211
+13,Blood Diamond,2006,143,"Adventure, Drama, Thriller",8.0,Edward Zwick,Leonardo DiCaprio,Djimon Hounsou,Jennifer Connelly,Kagiso Kuypers,506,2006-12-08,100000000,57377916,171377916
+14,Cinderella Man,2005,144,"Biography, Drama, History",8.0,Ron Howard,Russell Crowe,Renée Zellweger,Craig Bierko,Paul Giamatti,625,2005-06-03,88000000,61649911,105021488
+15,The Incredibles,2004,115,"Animation, Action, Adventure",8.0,Brad Bird,Craig T. Nelson,Samuel L. Jackson,Holly Hunter,Jason Lee,566,2004-10-22,92000000,261441092,631441092
+16,X-Men: Days of Future Past,2014,132,"Action, Adventure, Sci-Fi",7.9,Bryan Singer,Patrick Stewart,Ian McKellen,Hugh Jackman,James McAvoy,81,2014-05-21,200000000,233921534,747862775
+17,Children of Men,2006,109,"Adventure, Drama, Sci-Fi",7.9,Alfonso Cuarón,Julianne Moore,Clive Owen,Chiwetel Ejiofor,Michael Caine,784,2006-12-25,76000000,35552383,69845011
+18,Toy Story 2,1999,92,"Animation, Adventure, Comedy",7.9,John Lasseter,Ash Brannon,Lee Unkrich,Tom Hanks,Tim Allen,573,1999-11-19,90000000,245852179,511358276
+19,Captain America: Civil War,2016,147,"Action, Adventure, Sci-Fi",7.8,Anthony Russo,Joe Russo,Chris Evans,Robert Downey Jr.,Scarlett Johansson,26,2016-04-22,250000000,408084349,1151899586
+20,Toy Story 4,2019,100,"Animation, Adventure, Comedy",7.8,Josh Cooley,Tom Hanks,Tim Allen,Annie Potts,Tony Hale,68,2019-06-20,200000000,434038008,1071177215
+21,The Girl with the Dragon Tattoo,2011,158,"Crime, Drama, Mystery",7.8,David Fincher,Daniel Craig,Rooney Mara,Christopher Plummer,Stellan Skarsgård,588,2011-12-20,90000000,102515793,239373970
+22,The Hobbit: The Desolation of Smaug,2013,161,"Adventure, Fantasy",7.8,Peter Jackson,Ian McKellen,Martin Freeman,Richard Armitage,Ken Stott,31,2013-12-12,250000000,258241522,959358436
+23,The Hobbit: An Unexpected Journey,2012,169,"Adventure, Fantasy",7.8,Peter Jackson,Martin Freeman,Ian McKellen,Richard Armitage,Andy Serkis,77,2012-12-11,200000000,303003568,1014938545
+24,Avatar,2009,162,"Action, Adventure, Fantasy",7.8,James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver,Michelle Rodriguez,38,2009-12-17,237000000,785221649,2923706026
+25,Cast Away,2000,143,"Adventure, Drama, Romance",7.8,Robert Zemeckis,Tom Hanks,Helen Hunt,Paul Sanchez,Lari White,634,2000-12-22,85000000,233632142,427230516
+26,Titanic,1997,194,"Drama, Romance",7.8,James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,63,1997-12-18,200000000,674460013,2223048786
+27,Skyfall,2012,143,"Action, Adventure, Thriller",7.7,Sam Mendes,Daniel Craig,Javier Bardem,Naomie Harris,Judi Dench,76,2012-10-26,200000000,304360277,1110526981
+28,Zodiac,2007,157,"Crime, Drama, Mystery",7.7,David Fincher,Jake Gyllenhaal,Robert Downey Jr.,Mark Ruffalo,Anthony Edwards,671,2007-03-02,85000000,33080084,83027938
+29,Tangled,2010,100,"Animation, Adventure, Comedy",7.7,Nathan Greno,Byron Howard,Mandy Moore,Zachary Levi,Donna Murphy,23,2010-11-24,260000000,200821936,582440151
+30,The Bourne Supremacy,2004,108,"Action, Mystery, Thriller",7.7,Paul Greengrass,Matt Damon,Franka Potente,Joan Allen,Brian Cox,638,2004-07-23,85000000,176087450,311001124
+31,Black Hawk Down,2001,144,"Drama, History, War",7.7,Ridley Scott,Josh Hartnett,Ewan McGregor,Tom Sizemore,Eric Bana,545,2001-12-28,95000000,108638745,159691085
+32,Road to Perdition,2002,117,"Crime, Drama, Thriller",7.7,Sam Mendes,Tom Hanks,Tyler Hoechlin,Rob Maxey,Liam Aiken,709,2002-07-12,80000000,104054514,183354514
+33,The Fifth Element,1997,126,"Action, Adventure, Sci-Fi",7.7,Luc Besson,Bruce Willis,Milla Jovovich,Gary Oldman,Ian Holm,551,1997-05-09,95000000,63570862,263892271
+34,Incredibles 2,2018,118,"Animation, Action, Adventure",7.6,Brad Bird,Craig T. Nelson,Holly Hunter,Sarah Vowell,Huck Milner,66,2018-06-15,200000000,608581744,1242805359
+35,Sherlock Holmes,2009,128,"Action, Adventure, Mystery",7.6,Guy Ritchie,Robert Downey Jr.,Jude Law,Rachel McAdams,Mark Strong,575,2009-12-25,90000000,209028679,498438212
+36,Harry Potter and the Half-Blood Prince,2009,153,"Action, Adventure, Family",7.6,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon,29,2009-07-15,250000000,302854063,926492031
+37,Enemy at the Gates,2001,131,"Drama, History, War",7.6,Jean-Jacques Annaud,Jude Law,Ed Harris,Joseph Fiennes,Rachel Weisz,660,2001-03-16,85000000,51396781,96971293
+38,Mulan,1998,88,"Animation, Adventure, Family",7.6,Tony Bancroft,Barry Cook,Ming-Na Wen,Eddie Murphy,BD Wong,586,1998-06-19,90000000,120620254,303500000
+39,Die Hard: With a Vengeance,1995,128,"Action, Adventure, Thriller",7.6,John McTiernan,Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene,591,1995-05-19,90000000,100012499,366101666

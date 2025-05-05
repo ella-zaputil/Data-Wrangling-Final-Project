@@ -1,0 +1,315 @@
+,Movie Title,Release Year,Runtime,IMDB_Rating,Director,Star1,Star2,Star3,Star4,Action,Adventure,Animation,Biography,Comedy,Crime,Drama,Family,Fantasy,Film-Noir,History,Horror,Music,Musical,Mystery,Romance,Sci-Fi,Sport,Thriller,War,Western,Ranking,Release Date,Production Budget,Domestic Gross,Worldwide Gross
+0,The Shawshank Redemption,1994,142,9.3,Frank Darabont,Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1994-09-23,25000000,28313053,28784937
+1,The Dark Knight,2008,152,9.0,Christopher Nolan,Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,2008-07-11,185000000,536625724,1010086005
+2,The Godfather: Part II,1974,202,9.0,Francis Ford Coppola,Al Pacino,Robert De Niro,Robert Duvall,Diane Keaton,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1974-12-11,13000000,57300000,57386697
+3,The Lord of the Rings: The Return of the King,2003,201,8.9,Peter Jackson,Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,558,2003-12-17,94000000,381472917,1123837908
+4,Inception,2010,148,8.8,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Ken Watanabe,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,203,2010-07-16,160000000,293662683,826873382
+5,Fight Club,1999,139,8.8,David Fincher,Brad Pitt,Edward Norton,Meat Loaf,Zach Grenier,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,998,1999-10-15,65000000,37030102,100820947
+6,The Lord of the Rings: The Fellowship of the Ring,2001,178,8.8,Peter Jackson,Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,563,2001-12-19,93000000,318651105,894291662
+7,Forrest Gump,1994,142,8.8,Robert Zemeckis,Tom Hanks,Robin Wright,Gary Sinise,Sally Field,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,1994-07-06,55000000,330151138,679835137
+8,The Lord of the Rings: The Two Towers,2002,179,8.7,Peter Jackson,Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,560,2002-12-18,94000000,345115396,921711177
+9,The Matrix,1999,136,8.7,Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,965,1999-03-31,65000000,174304288,466281862
+10,Goodfellas,1990,146,8.7,Martin Scorsese,Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1990-09-19,25000000,46743809,47103483
+11,Interstellar,2014,169,8.6,Christopher Nolan,Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,194,2014-11-05,165000000,203225563,641756828
+12,Saving Private Ryan,1998,169,8.6,Steven Spielberg,Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,961,1998-07-24,65000000,216335085,485035085
+13,The Green Mile,1999,189,8.6,Frank Darabont,Tom Hanks,Michael Clarke Duncan,David Morse,Bonnie Hunt,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,1999-12-10,60000000,136801374,290701374
+14,Se7en,1995,127,8.6,David Fincher,Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,1995-09-15,30000000,100908157,328908157
+15,The Silence of the Lambs,1991,118,8.6,Jonathan Demme,Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1991-02-14,20000000,130726716,275726375
+16,Joker,2019,122,8.5,Todd Phillips,Joaquin Phoenix,Robert De Niro,Zazie Beetz,Frances Conroy,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2019-10-02,55000000,335451311,1063574394
+17,The Prestige,2006,130,8.5,Christopher Nolan,Christian Bale,Hugh Jackman,Scarlett Johansson,Michael Caine,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,2006-10-20,40000000,53089891,104407366
+18,The Departed,2006,151,8.5,Martin Scorsese,Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,585,2006-10-06,90000000,132384315,289660619
+19,Gladiator,2000,155,8.5,Ridley Scott,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,462,2000-05-01,103000000,187683805,451683599
+20,Léon,1994,110,8.5,Luc Besson,Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1994-11-18,16000000,19284974,45258012
+21,The Lion King,1994,88,8.5,Roger Allers,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,769,1994-06-15,79300000,423981226,988389726
+22,Terminator 2: Judgment Day,1991,137,8.5,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,477,1991-07-02,100000000,203464105,515344899
+23,Back to the Future,1985,116,8.5,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1985-07-03,19000000,215612287,388862657
+24,Avengers: Endgame,2019,181,8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Evans,Mark Ruffalo,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2019-04-23,400000000,858373000,2717503922
+25,Avengers: Infinity War,2018,149,8.4,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9,2018-04-25,300000000,678815482,2048359754
+26,Coco,2017,105,8.4,Lee Unkrich,Adrian Molina,Anthony Gonzalez,Gael García Bernal,Benjamin Bratt,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,162,2017-10-27,175000000,210460015,796397165
+27,Django Unchained,2012,165,8.4,Quentin Tarantino,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,Kerry Washington,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,484,2012-12-25,100000000,162805434,449841566
+28,The Dark Knight Rises,2012,164,8.4,Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2012-07-19,230000000,448139099,1082228107
+29,Once Upon a Time in America,1984,229,8.4,Sergio Leone,Robert De Niro,James Woods,Elizabeth McGovern,Treat Williams,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1984-06-01,30000000,5321508,5577556
+30,Raiders of the Lost Ark,1981,115,8.4,Steven Spielberg,Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1981-06-12,20000000,225686079,367451914
+31,The Shining,1980,146,8.4,Stanley Kubrick,Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,1980-05-23,19000000,45634750,46805191
+32,Apocalypse Now,1979,147,8.4,Francis Ford Coppola,Martin Sheen,Marlon Brando,Robert Duvall,Frederic Forrest,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,,1979-08-15,31500000,83535860,85955386
+33,1917,2019,119,8.3,Sam Mendes,Dean-Charles Chapman,George MacKay,Daniel Mays,Colin Firth,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,485,2019-12-25,100000000,159227644,383710072
+34,Inglourious Basterds,2009,153,8.3,Quentin Tarantino,Brad Pitt,Diane Kruger,Eli Roth,Mélanie Laurent,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,878,2009-08-21,70000000,120774594,316802281
+35,Eternal Sunshine of the Spotless Mind,2004,108,8.3,Michel Gondry,Jim Carrey,Kate Winslet,Tom Wilkinson,Gerry Robert Byrne,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,2004-03-19,20000000,34366518,72401378
+36,American Beauty,1999,122,8.3,Sam Mendes,Kevin Spacey,Annette Bening,Thora Birch,Wes Bentley,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1999-09-15,15000000,130058047,356258047
+37,Toy Story,1995,81,8.3,John Lasseter,Tom Hanks,Tim Allen,Don Rickles,Jim Varney,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1995-11-22,30000000,192523233,365270951
+38,Braveheart,1995,178,8.3,Mel Gibson,Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,861,1995-05-24,72000000,75545647,209045244
+39,Full Metal Jacket,1987,116,8.3,Stanley Kubrick,Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Adam Baldwin,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,1987-06-26,30000000,45015999,48845082
+40,Aliens,1986,137,8.3,James Cameron,Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1986-07-18,17000000,85160248,183291893
+41,Amadeus,1984,160,8.3,Milos Forman,F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Roy Dotrice,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,1984-09-19,18000000,51973029,52025100
+42,Scarface,1983,170,8.3,Brian De Palma,Al Pacino,Michelle Pfeiffer,Steven Bauer,Mary Elizabeth Mastrantonio,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1983-12-09,25000000,45227398,45233082
+43,Lawrence of Arabia,1962,228,8.3,David Lean,Peter O'Toole,Alec Guinness,Anthony Quinn,Jack Hawkins,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1962-12-16,15000000,37495385,69995047
+44,Green Book,2018,130,8.2,Peter Farrelly,Viggo Mortensen,Mahershala Ali,Linda Cardellini,Sebastian Maniscalco,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2018-11-16,23000000,85080171,319995019
+45,"Three Billboards Outside Ebbing, Missouri",2017,115,8.2,Martin McDonagh,Frances McDormand,Woody Harrelson,Sam Rockwell,Caleb Landry Jones,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2017-11-10,12000000,54513740,161158351
+46,Baahubali 2: The Conclusion,2017,167,8.2,S.S. Rajamouli,Prabhas,Rana Daggubati,Anushka Shetty,Tamannaah Bhatia,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2017-04-28,30000000,18985794,263502914
+47,Klaus,2019,96,8.2,Sergio Pablos,Carlos Martínez López,Jason Schwartzman,J.K. Simmons,Rashida Jones,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2019-11-08,40000000,0,0
+48,Warrior,2011,140,8.2,Gavin O'Connor,Tom Hardy,Nick Nolte,Joel Edgerton,Jennifer Morrison,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,2011-09-09,25000000,13657115,24215385
+49,Shutter Island,2010,138,8.2,Martin Scorsese,Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,Ben Kingsley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,704,2010-02-19,80000000,128012934,299461782
+50,Up,2009,96,8.2,Pete Docter,Bob Peterson,Edward Asner,Jordan Nagai,John Ratzenberger,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,161,2009-05-28,175000000,293004164,731463377
+51,The Wolf of Wall Street,2013,180,8.2,Martin Scorsese,Leonardo DiCaprio,Jonah Hill,Margot Robbie,Matthew McConaughey,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,492,2013-12-25,100000000,116949183,389816136
+52,There Will Be Blood,2007,158,8.2,Paul Thomas Anderson,Daniel Day-Lewis,Paul Dano,Ciarán Hinds,Martin Stringer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2007-12-26,25000000,40222514,77186081
+53,Toy Story 3,2010,103,8.2,Lee Unkrich,Tom Hanks,Tim Allen,Joan Cusack,Ned Beatty,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,2010-06-18,200000000,415004880,1068879522
+54,Batman Begins,2005,140,8.2,Christopher Nolan,Christian Bale,Michael Caine,Ken Watanabe,Liam Neeson,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,241,2005-06-15,150000000,205343774,356770593
+55,A Beautiful Mind,2001,135,8.2,Ron Howard,Russell Crowe,Ed Harris,Jennifer Connelly,Christopher Plummer,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,772,2001-12-21,78000000,170708996,317668058
+56,Casino,1995,178,8.2,Martin Scorsese,Robert De Niro,Sharon Stone,Joe Pesci,James Woods,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1995-11-22,52000000,42438300,110400000
+57,Unforgiven,1992,130,8.2,Clint Eastwood,Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,1992-08-07,14400000,101157447,159157447
+58,Indiana Jones and the Last Crusade,1989,127,8.2,Steven Spielberg,Harrison Ford,Sean Connery,Alison Doody,Denholm Elliott,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1989-05-24,48000000,197171806,474171806
+59,Die Hard,1988,132,8.2,John McTiernan,Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1988-07-15,28000000,85892546,143651650
+60,Raging Bull,1980,129,8.2,Martin Scorsese,Robert De Niro,Cathy Moriarty,Joe Pesci,Frank Vincent,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,1980-11-14,18000000,23380203,23417649
+61,Logan,2017,137,8.1,James Mangold,Hugh Jackman,Patrick Stewart,Dafne Keen,Boyd Holbrook,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,347,2017-02-23,127000000,226277068,614202315
+62,Room,2015,118,8.1,Lenny Abrahamson,Brie Larson,Jacob Tremblay,Sean Bridgers,Wendy Crewson,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2015-10-16,13000000,14677674,36316727
+63,Soul,2020,100,8.1,Pete Docter,Kemp Powers,Jamie Foxx,Tina Fey,Graham Norton,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,2020-12-24,200000000,946154,120068830
+64,The Grand Budapest Hotel,2014,99,8.1,Wes Anderson,Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2014-03-05,31000000,59076019,163037661
+65,Gone Girl,2014,149,8.1,David Fincher,Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,2014-10-02,61000000,167767189,367128535
+66,Hacksaw Ridge,2016,139,8.1,Mel Gibson,Andrew Garfield,Sam Worthington,Luke Bracey,Teresa Palmer,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,2016-11-03,40000000,67209615,168423249
+67,Inside Out,2015,95,8.1,Pete Docter,Ronnie Del Carmen,Amy Poehler,Bill Hader,Lewis Black,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,158,2015-06-12,175000000,356461711,850309035
+68,12 Years a Slave,2013,134,8.1,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender,Brad Pitt,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,2013-10-18,20000000,56671993,180765061
+69,Rush,2013,123,8.1,Ron Howard,Daniel Brühl,Chris Hemsworth,Olivia Wilde,Alexandra Maria Lara,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2013-09-13,38000000,26947624,98159204
+70,Spotlight,2015,129,8.1,Tom McCarthy,Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2015-11-06,20000000,45055776,91902438
+71,Prisoners,2013,153,8.1,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal,Viola Davis,Melissa Leo,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2013-09-19,46000000,61002302,113310547
+72,Mad Max: Fury Road,2015,120,8.1,George Miller,Tom Hardy,Charlize Theron,Nicholas Hoult,Zoë Kravitz,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,249,2015-05-14,150000000,154363726,380463726
+73,Gran Torino,2008,116,8.1,Clint Eastwood,Clint Eastwood,Bee Vang,Christopher Carley,Ahney Her,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2008-12-12,25000000,148095302,274543085
+74,How to Train Your Dragon,2010,98,8.1,Dean DeBlois,Chris Sanders,Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193,2010-03-26,165000000,217851976,495141736
+75,Into the Wild,2007,148,8.1,Sean Penn,Emile Hirsch,Vince Vaughn,Catherine Keener,Marcia Gay Harden,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2007-09-21,20000000,18354356,56822960
+76,No Country for Old Men,2007,122,8.1,Ethan Coen,Joel Coen,Tommy Lee Jones,Javier Bardem,Josh Brolin,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2007-11-09,25000000,74273505,164035753
+77,Million Dollar Baby,2004,132,8.1,Clint Eastwood,Hilary Swank,Clint Eastwood,Morgan Freeman,Jay Baruchel,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,2004-12-15,30000000,100492203,231928227
+78,Hotel Rwanda,2004,121,8.1,Terry George,Don Cheadle,Sophie Okonedo,Joaquin Phoenix,Xolani Mali,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,2004-12-22,17500000,23519128,36520451
+79,Finding Nemo,2003,100,8.1,Andrew Stanton,Lee Unkrich,Albert Brooks,Ellen DeGeneres,Alexander Gould,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,559,2003-05-30,94000000,380529370,936094852
+80,"Monsters, Inc.",2001,92,8.1,Pete Docter,David Silverman,Lee Unkrich,Billy Crystal,John Goodman,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,407,2001-11-02,115000000,290149425,560483719
+81,The Sixth Sense,1999,107,8.1,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,1999-01-15,40000000,293506292,672806292
+82,The Truman Show,1998,103,8.1,Peter Weir,Jim Carrey,Ed Harris,Laura Linney,Noah Emmerich,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1998-06-05,60000000,125618201,264118201
+83,The Big Lebowski,1998,117,8.1,Joel Coen,Ethan Coen,Jeff Bridges,John Goodman,Julianne Moore,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,1998-03-06,15000000,18906338,47597102
+84,Jurassic Park,1993,127,8.1,Steven Spielberg,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1993-06-11,63000000,415404543,1058454230
+85,Dead Poets Society,1989,128,8.1,Peter Weir,Robin Williams,Robert Sean Leonard,Ethan Hawke,Josh Charles,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1989-06-02,16400000,95860116,239500000
+86,Blade Runner,1982,117,8.1,Ridley Scott,Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,,1982-06-25,28000000,32724136,39649582
+87,The Deer Hunter,1978,183,8.1,Michael Cimino,Robert De Niro,Christopher Walken,John Cazale,John Savage,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,1978-12-08,15000000,50000000,50065119
+88,Ben-Hur,1959,212,8.1,William Wyler,Charlton Heston,Jack Hawkins,Stephen Boyd,Haya Harareet,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,1959-11-18,15000000,73000000,73226628
+89,Bajrangi Bhaijaan,2015,163,8.0,Kabir Khan,Salman Khan,Harshaali Malhotra,Nawazuddin Siddiqui,Kareena Kapoor,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2015-07-16,13000000,8178001,122825618
+90,La La Land,2016,128,8.0,Damien Chazelle,Ryan Gosling,Emma Stone,Rosemarie DeWitt,J.K. Simmons,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,2016-11-30,30000000,151101803,504662906
+91,Lion,2016,118,8.0,Garth Davis,Dev Patel,Nicole Kidman,Rooney Mara,Sunny Pawar,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2016-11-25,12000000,51739495,149117900
+92,The Martian,2015,144,8.0,Ridley Scott,Matt Damon,Jessica Chastain,Kristen Wiig,Kate Mara,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,451,2015-09-30,108000000,228433663,653609107
+93,Zootopia,2016,108,8.0,Byron Howard,Rich Moore,Jared Bush,Ginnifer Goodwin,Jason Bateman,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,230,2016-02-10,150000000,341268248,1025485003
+94,Wonder,2017,113,8.0,Stephen Chbosky,Jacob Tremblay,Owen Wilson,Izabela Vidovic,Julia Roberts,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,2017-10-17,20000000,132422809,310179620
+95,The Imitation Game,2014,114,8.0,Morten Tyldum,Benedict Cumberbatch,Keira Knightley,Matthew Goode,Allen Leech,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2014-11-14,15000000,91125143,227328585
+96,Guardians of the Galaxy,2014,121,8.0,James Gunn,Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,176,2014-07-31,170000000,333714112,770882395
+97,Blade Runner 2049,2017,164,8.0,Denis Villeneuve,Harrison Ford,Ryan Gosling,Ana de Armas,Dave Bautista,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,135,2017-09-29,185000000,92054159,258157449
+98,Bohemian Rhapsody,2018,134,8.0,Bryan Singer,Rami Malek,Lucy Boynton,Gwilym Lee,Ben Hardy,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,2018-10-24,55000000,216303339,879088897
+99,The Revenant,2015,156,8.0,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,Will Poulter,Domhnall Gleeson,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,314,2015-12-25,135000000,183637894,532938302
+100,The Perks of Being a Wallflower,2012,103,8.0,Stephen Chbosky,Logan Lerman,Emma Watson,Ezra Miller,Paul Rudd,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2012-09-20,13000000,17742948,33069303
+101,The Help,2011,146,8.0,Tate Taylor,Emma Stone,Viola Davis,Octavia Spencer,Bryce Dallas Howard,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2011-08-10,25000000,169705587,213120004
+102,Deadpool,2016,108,8.0,Tim Miller,Ryan Reynolds,Morena Baccarin,T.J. Miller,Ed Skrein,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2016-02-09,58000000,363070709,781947691
+103,Slumdog Millionaire,2008,120,8.0,Danny Boyle,Loveleen Tandan,Dev Patel,Freida Pinto,Saurabh Shukla,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2008-11-12,14000000,141330703,383825427
+104,Black Swan,2010,108,8.0,Darren Aronofsky,Natalie Portman,Mila Kunis,Vincent Cassel,Winona Ryder,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2010-12-03,13000000,106954678,331266710
+105,The Avengers,2012,143,8.0,Joss Whedon,Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,43,2012-04-25,225000000,623357910,1515100211
+106,The Pursuit of Happyness,2006,117,8.0,Gabriele Muccino,Will Smith,Thandie Newton,Jaden Smith,Brian Howe,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2006-12-15,55000000,162586036,307311093
+107,Blood Diamond,2006,143,8.0,Edward Zwick,Leonardo DiCaprio,Djimon Hounsou,Jennifer Connelly,Kagiso Kuypers,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,507,2006-12-08,100000000,57377916,171377916
+108,The Bourne Ultimatum,2007,115,8.0,Paul Greengrass,Matt Damon,Edgar Ramírez,Joan Allen,Julia Stiles,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,327,2007-08-03,130000000,227471070,444043396
+109,Sin City,2005,124,8.0,Frank Miller,Quentin Tarantino,Robert Rodriguez,Mickey Rourke,Clive Owen,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2005-04-01,40000000,74103820,158527918
+110,Ratatouille,2007,111,8.0,Brad Bird,Jan Pinkava,Brad Garrett,Lou Romano,Patton Oswalt,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,239,2007-06-29,150000000,206445654,626549695
+111,Casino Royale,2006,144,8.0,Martin Campbell,Daniel Craig,Eva Green,Judi Dench,Jeffrey Wright,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,466,2006-11-17,102000000,167365000,594420216
+112,Cinderella Man,2005,144,8.0,Ron Howard,Russell Crowe,Renée Zellweger,Craig Bierko,Paul Giamatti,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,626,2005-06-03,88000000,61649911,105021488
+113,Big Fish,2003,125,8.0,Tim Burton,Ewan McGregor,Albert Finney,Billy Crudup,Jessica Lange,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,896,2003-12-10,70000000,66432867,123954323
+114,The Incredibles,2004,115,8.0,Brad Bird,Craig T. Nelson,Samuel L. Jackson,Holly Hunter,Jason Lee,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,567,2004-10-22,92000000,261441092,631441092
+115,Magnolia,1999,188,8.0,Paul Thomas Anderson,Tom Cruise,Jason Robards,Julianne Moore,Philip Seymour Hoffman,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1999-12-17,37000000,22450975,48446802
+116,Dancer in the Dark,2000,140,8.0,Lars von Trier,Björk,Catherine Deneuve,David Morse,Peter Stormare,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,2000-09-22,12500000,4157491,45556774
+117,The Iron Giant,1999,86,8.0,Brad Bird,Eli Marienthal,Harry Connick Jr.,Jennifer Aniston,Vin Diesel,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1999-08-04,50000000,23534992,31709604
+118,Groundhog Day,1993,101,8.0,Harold Ramis,Bill Murray,Andie MacDowell,Chris Elliott,Stephen Tobolowsky,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,,1993-02-12,14600000,71097843,71112677
+119,Bound by Honor,1993,180,8.0,Taylor Hackford,Damian Chapa,Jesse Borrego,Benjamin Bratt,Enrique Castillo,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1993-04-16,35000000,4496583,4496583
+120,Aladdin,1992,90,8.0,Ron Clements,John Musker,Scott Weinger,Robin Williams,Linda Larkin,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1992-11-11,28000000,217350219,504050219
+121,JFK,1991,189,8.0,Oliver Stone,Kevin Costner,Gary Oldman,Jack Lemmon,Walter Matthau,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,1991-12-20,40000000,70405498,205400000
+122,Beauty and the Beast,1991,84,8.0,Gary Trousdale,Kirk Wise,Paige O'Hara,Robby Benson,Jesse Corti,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,1991-11-13,20000000,206333165,438656843
+123,Dances with Wolves,1990,181,8.0,Kevin Costner,Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,1990-11-09,19000000,184208842,424208805
+124,Rain Man,1988,133,8.0,Barry Levinson,Dustin Hoffman,Tom Cruise,Valeria Golino,Gerald R. Molen,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1988-12-16,25000000,172825435,412800000
+125,The Princess Bride,1987,98,8.0,Rob Reiner,Cary Elwes,Mandy Patinkin,Robin Wright,Chris Sarandon,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,1987-09-25,15000000,30857000,31046220
+126,Gandhi,1982,191,8.0,Richard Attenborough,Ben Kingsley,John Gielgud,Rohini Hattangadi,Roshan Seth,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,1982-12-08,22000000,52767889,127767889
+127,Jaws,1975,124,8.0,Steven Spielberg,Roy Scheider,Robert Shaw,Richard Dreyfuss,Lorraine Gary,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1975-06-20,12000000,273661595,484351938
+128,Papillon,1973,151,8.0,Franklin J. Schaffner,Steve McQueen,Dustin Hoffman,Victor Jory,Don Gordon,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1973-12-16,13500000,53267000,53292989
+129,The Exorcist,1973,122,8.0,William Friedkin,Ellen Burstyn,Max von Sydow,Linda Blair,Lee J. Cobb,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,1973-12-26,12000000,231020723,428887784
+130,Knives Out,2019,130,7.9,Rian Johnson,Daniel Craig,Chris Evans,Ana de Armas,Jamie Lee Curtis,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2019-11-27,40000000,165364060,312898746
+131,Marriage Story,2019,137,7.9,Noah Baumbach,Adam Driver,Scarlett Johansson,Julia Greer,Azhy Robertson,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2019-11-27,18000000,0,321463
+132,Thor: Ragnarok,2017,130,7.9,Taika Waititi,Chris Hemsworth,Tom Hiddleston,Cate Blanchett,Mark Ruffalo,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139,2017-10-25,180000000,315058289,850482778
+133,Jojo Rabbit,2019,108,7.9,Taika Waititi,Roman Griffin Davis,Thomasin McKenzie,Scarlett Johansson,Taika Waititi,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,2019-10-18,14000000,33370906,86878073
+134,Arrival,2016,116,7.9,Denis Villeneuve,Amy Adams,Jeremy Renner,Forest Whitaker,Michael Stuhlbarg,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,2016-11-09,47000000,100546139,202241353
+135,X-Men: Days of Future Past,2014,132,7.9,Bryan Singer,Patrick Stewart,Ian McKellen,Hugh Jackman,James McAvoy,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81,2014-05-21,200000000,233921534,747862775
+136,The Artist,2011,100,7.9,Michel Hazanavicius,Jean Dujardin,Bérénice Bejo,John Goodman,James Cromwell,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2011-10-12,16000000,44667095,128100584
+137,Edge of Tomorrow,2014,113,7.9,Doug Liman,Tom Cruise,Emily Blunt,Bill Paxton,Brendan Gleeson,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,154,2014-05-28,178000000,100206256,367028980
+138,The Irishman,2019,209,7.9,Martin Scorsese,Robert De Niro,Al Pacino,Joe Pesci,Harvey Keitel,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,213,2019-11-01,159000000,0,914706
+139,District 9,2009,112,7.9,Neill Blomkamp,Sharlto Copley,David James,Jason Cope,Nathalie Boltt,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,,2009-08-14,30000000,115646235,212453431
+140,Star Trek,2009,127,7.9,J.J. Abrams,Chris Pine,Zachary Quinto,Simon Pegg,Leonard Nimoy,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,290,2009-05-08,140000000,257730019,386839614
+141,In Bruges,2008,107,7.9,Martin McDonagh,Colin Farrell,Brendan Gleeson,Ciarán Hinds,Elizabeth Berrington,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2008-02-08,15000000,7800825,34509748
+142,Letters from Iwo Jima,2006,141,7.9,Clint Eastwood,Ken Watanabe,Kazunari Ninomiya,Tsuyoshi Ihara,Ryô Kase,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2006-12-20,13000000,13756082,67867998
+143,Life of Pi,2012,127,7.9,Ang Lee,Suraj Sharma,Irrfan Khan,Adil Hussain,Tabu,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,383,2012-11-21,120000000,124987022,619310368
+144,Fantastic Mr. Fox,2009,87,7.9,Wes Anderson,George Clooney,Meryl Streep,Bill Murray,Jason Schwartzman,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2009-10-23,40000000,21002919,46187511
+145,Iron Man,2008,126,7.9,Jon Favreau,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard,Jeff Bridges,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,127,2008-04-30,186000000,318604126,584877827
+146,Mystic River,2003,138,7.9,Clint Eastwood,Sean Penn,Tim Robbins,Kevin Bacon,Emmy Rossum,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2003-10-08,30000000,90135191,156822020
+147,Harry Potter and the Prisoner of Azkaban,2004,142,7.9,Alfonso Cuarón,Daniel Radcliffe,Emma Watson,Rupert Grint,Richard Griffiths,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,326,2004-05-31,130000000,250853809,784234714
+148,The Bourne Identity,2002,119,7.9,Doug Liman,Franka Potente,Matt Damon,Chris Cooper,Clive Owen,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,2002-06-14,60000000,121468960,214357371
+149,Children of Men,2006,109,7.9,Alfonso Cuarón,Julianne Moore,Clive Owen,Chiwetel Ejiofor,Michael Caine,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,785,2006-12-25,76000000,35552383,69845011
+150,Almost Famous,2000,122,7.9,Cameron Crowe,Billy Crudup,Patrick Fugit,Kate Hudson,Frances McDormand,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2000-09-15,60000000,32522352,47371191
+151,Toy Story 2,1999,92,7.9,John Lasseter,Ash Brannon,Lee Unkrich,Tom Hanks,Tim Allen,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,574,1999-11-19,90000000,245852179,511358276
+152,Boogie Nights,1997,155,7.9,Paul Thomas Anderson,Mark Wahlberg,Julianne Moore,Burt Reynolds,Luis Guzmán,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1997-10-10,15000000,26410771,43111725
+153,True Romance,1993,119,7.9,Tony Scott,Christian Slater,Patricia Arquette,Dennis Hopper,Val Kilmer,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,1993-09-10,12500000,12281000,12643293
+154,Edward Scissorhands,1990,105,7.9,Tim Burton,Johnny Depp,Winona Ryder,Dianne Wiest,Anthony Michael Hall,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,,1990-12-07,20000000,53976987,53980220
+155,The Untouchables,1987,119,7.9,Brian De Palma,Kevin Costner,Sean Connery,Robert De Niro,Charles Martin Smith,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1987-06-03,25000000,76270454,76271995
+156,Brazil,1985,132,7.9,Terry Gilliam,Jonathan Pryce,Kim Greist,Robert De Niro,Katherine Helmond,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1985-05-31,15000000,9929135,9934484
+157,The Blues Brothers,1980,133,7.9,John Landis,John Belushi,Dan Aykroyd,Cab Calloway,John Candy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1980-06-20,27000000,57229890,57246460
+158,Patton,1970,172,7.9,Franklin J. Schaffner,George C. Scott,Karl Malden,Stephen Young,Michael Strong,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,1970-01-01,12000000,62500000,62500000
+159,Spartacus,1960,197,7.9,Stanley Kubrick,Kirk Douglas,Laurence Olivier,Jean Simmons,Charles Laughton,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1960-10-07,12000000,30000000,59999883
+160,The Ten Commandments,1956,220,7.9,Cecil B. DeMille,Charlton Heston,Yul Brynner,Anne Baxter,Edward G. Robinson,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1956-10-05,13500000,85400591,85431454
+161,The Gentlemen,2019,113,7.8,Guy Ritchie,Matthew McConaughey,Charlie Hunnam,Michelle Dockery,Jeremy Strong,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2019-12-27,22000000,36471796,113152222
+162,Dunkirk,2017,106,7.8,Christopher Nolan,Fionn Whitehead,Barry Keoghan,Mark Rylance,Tom Hardy,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,243,2017-07-18,150000000,190068280,509736928
+163,Hidden Figures,2016,127,7.8,Theodore Melfi,Taraji P. Henson,Octavia Spencer,Janelle Monáe,Kevin Costner,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,2016-12-25,25000000,169607287,228446841
+164,Kubo and the Two Strings,2016,101,7.8,Travis Knight,Charlize Theron,Art Parkinson,Matthew McConaughey,Ralph Fiennes,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2016-08-18,55000000,48023088,77548122
+165,Captain America: Civil War,2016,147,7.8,Anthony Russo,Joe Russo,Chris Evans,Robert Downey Jr.,Scarlett Johansson,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,26,2016-04-22,250000000,408084349,1151899586
+166,The Hateful Eight,2015,168,7.8,Quentin Tarantino,Samuel L. Jackson,Kurt Russell,Jennifer Jason Leigh,Walton Goggins,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2015-12-25,62000000,54117416,151813358
+167,Little Women,2019,135,7.8,Greta Gerwig,Saoirse Ronan,Emma Watson,Florence Pugh,Eliza Scanlen,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2019-12-25,42000000,108095955,218838386
+168,Big Hero 6,2014,102,7.8,Don Hall,Chris Williams,Ryan Potter,Scott Adsit,Jamie Chung,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,192,2014-10-25,165000000,222527828,647263005
+169,About Time,2013,123,7.8,Richard Curtis,Domhnall Gleeson,Rachel McAdams,Bill Nighy,Lydia Wilson,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,2013-09-04,12000000,15323921,84429086
+170,Toy Story 4,2019,100,7.8,Josh Cooley,Tom Hanks,Tim Allen,Annie Potts,Tony Hale,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,2019-06-20,200000000,434038008,1071177215
+171,Moonrise Kingdom,2012,94,7.8,Wes Anderson,Jared Gilman,Kara Hayward,Bruce Willis,Bill Murray,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2012-05-16,16000000,45512466,68848446
+172,How to Train Your Dragon 2,2014,102,7.8,Dean DeBlois,Jay Baruchel,Cate Blanchett,Gerard Butler,Craig Ferguson,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,282,2014-06-05,145000000,177002924,614586270
+173,The Big Short,2015,130,7.8,Adam McKay,Christian Bale,Steve Carell,Ryan Gosling,Brad Pitt,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2015-12-11,28000000,70259870,132624681
+174,The Girl with the Dragon Tattoo,2011,158,7.8,David Fincher,Daniel Craig,Rooney Mara,Christopher Plummer,Stellan Skarsgård,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,589,2011-12-20,90000000,102515793,239373970
+175,Captain Phillips,2013,134,7.8,Paul Greengrass,Tom Hanks,Barkhad Abdi,Barkhad Abdirahman,Catherine Keener,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2013-10-11,55000000,107136417,220648184
+176,Straight Outta Compton,2015,147,7.8,F. Gary Gray,O'Shea Jackson Jr.,Corey Hawkins,Jason Mitchell,Neil Brown Jr.,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,2015-08-14,28000000,161197785,202182981
+177,The Hobbit: The Desolation of Smaug,2013,161,7.8,Peter Jackson,Ian McKellen,Martin Freeman,Richard Armitage,Ken Stott,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,31,2013-12-12,250000000,258241522,959358436
+178,Män som hatar kvinnor,2009,152,7.8,Niels Arden Oplev,Michael Nyqvist,Noomi Rapace,Ewa Fröling,Lena Endre,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2009-05-29,13000000,12749992,109421911
+179,The Trial of the Chicago 7,2020,129,7.8,Aaron Sorkin,Eddie Redmayne,Alex Sharp,Sacha Baron Cohen,Jeremy Strong,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,2020-10-02,35000000,0,116473
+180,Taken,2008,90,7.8,Pierre Morel,Liam Neeson,Maggie Grace,Famke Janssen,Leland Orser,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2008-04-09,25000000,145000989,226941585
+181,The Boy in the Striped Pyjamas,2008,94,7.8,Mark Herman,Asa Butterfield,David Thewlis,Rupert Friend,Zac Mattoon O'Brien,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,,2008-11-07,12500000,9046156,44083403
+182,The Hobbit: An Unexpected Journey,2012,169,7.8,Peter Jackson,Martin Freeman,Ian McKellen,Richard Armitage,Andy Serkis,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,77,2012-12-11,200000000,303003568,1014938545
+183,Atonement,2007,123,7.8,Joe Wright,Keira Knightley,James McAvoy,Brenda Blethyn,Saoirse Ronan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,2007-12-07,30000000,50980159,129779728
+184,Drive,2011,100,7.8,Nicolas Winding Refn,Ryan Gosling,Carey Mulligan,Bryan Cranston,Albert Brooks,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2011-09-16,15000000,35060689,81357930
+185,American Gangster,2007,157,7.8,Ridley Scott,Denzel Washington,Russell Crowe,Chiwetel Ejiofor,Josh Brolin,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,488,2007-11-02,100000000,130164645,267985456
+186,Avatar,2009,162,7.8,James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver,Michelle Rodriguez,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,38,2009-12-17,237000000,785221649,2923706026
+187,Apocalypto,2006,139,7.8,Mel Gibson,Gerardo Taracena,Raoul Max Trujillo,Dalia Hernández,Rudy Youngblood,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2006-12-08,40000000,50866635,121032272
+188,Hot Fuzz,2007,121,7.8,Edgar Wright,Simon Pegg,Nick Frost,Martin Freeman,Bill Nighy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2007-02-16,16000000,23618786,80695830
+189,The Curious Case of Benjamin Button,2008,166,7.8,David Fincher,Brad Pitt,Cate Blanchett,Tilda Swinton,Julia Ormond,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,209,2008-12-25,160000000,127509326,329631958
+190,Pride & Prejudice,2005,129,7.8,Joe Wright,Keira Knightley,Matthew Macfadyen,Brenda Blethyn,Donald Sutherland,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2005-11-11,28000000,43285705,131462650
+191,The World's Fastest Indian,2005,127,7.8,Roger Donaldson,Anthony Hopkins,Diane Ladd,Iain Rea,Tessa Mitchell,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,2005-10-13,25000000,5128124,18991288
+192,Serenity,2005,119,7.8,Joss Whedon,Nathan Fillion,Gina Torres,Chiwetel Ejiofor,Alan Tudyk,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,2005-09-30,39000000,25514517,40319440
+193,Walk the Line,2005,136,7.8,James Mangold,Joaquin Phoenix,Reese Witherspoon,Ginnifer Goodwin,Robert Patrick,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,2005-11-18,29000000,119519402,187707495
+194,The Notebook,2004,123,7.8,Nick Cassavetes,Gena Rowlands,James Garner,Rachel McAdams,Ryan Gosling,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2004-06-25,30000000,81582653,116223302
+195,The Count of Monte Cristo,2002,131,7.8,Kevin Reynolds,Jim Caviezel,Guy Pearce,Christopher Adamson,JB Blanc,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2002-01-25,40000000,54228104,75389090
+196,Remember the Titans,2000,113,7.8,Boaz Yakin,Denzel Washington,Will Patton,Wood Harris,Ryan Hurst,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,2000-09-29,30000000,115719751,136771683
+197,Cast Away,2000,143,7.8,Robert Zemeckis,Tom Hanks,Helen Hunt,Paul Sanchez,Lari White,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,635,2000-12-22,85000000,233632142,427230516
+198,The Insider,1999,157,7.8,Michael Mann,Russell Crowe,Al Pacino,Christopher Plummer,Diane Venora,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,946,1999-11-05,68000000,28965197,60265197
+199,Shrek,2001,90,7.8,Andrew Adamson,Vicky Jenson,Mike Myers,Eddie Murphy,Cameron Diaz,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2001-05-18,50000000,268377061,492534844
+200,Titanic,1997,194,7.8,James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,63,1997-12-18,200000000,674460013,2223048786
+201,The Game,1997,129,7.8,David Fincher,Michael Douglas,Deborah Kara Unger,Sean Penn,James Rebhorn,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,1997-09-12,50000000,48265581,80369970
+202,Ed Wood,1994,127,7.8,Tim Burton,Johnny Depp,Martin Landau,Sarah Jessica Parker,Patricia Arquette,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1994-09-30,18000000,5828466,5828734
+203,Tombstone,1993,130,7.8,George P. Cosmatos,Kevin Jarre,Kurt Russell,Val Kilmer,Sam Elliott,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1993-12-25,25000000,56505065,56505065
+204,The Remains of the Day,1993,134,7.8,James Ivory,Anthony Hopkins,Emma Thompson,John Haycraft,Christopher Reeve,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,1993-11-05,15000000,22954968,63954968
+205,The Fugitive,1993,130,7.8,Andrew Davis,Harrison Ford,Tommy Lee Jones,Sela Ward,Julianne Moore,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1993-08-06,44000000,183968665,353808222
+206,Awakenings,1990,121,7.8,Penny Marshall,Robert De Niro,Robin Williams,Julie Kavner,Ruth Nelson,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1990-12-19,29000000,51636504,51636504
+207,Glory,1989,122,7.8,Edward Zwick,Matthew Broderick,Denzel Washington,Cary Elwes,Morgan Freeman,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,1989-12-13,18000000,26828365,26828365
+208,Back to the Future Part II,1989,108,7.8,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Thomas F. Wilson,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1989-11-22,40000000,118450002,331971868
+209,Predator,1987,107,7.8,John McTiernan,Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall,Elpidia Carrillo,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1987-06-12,18000000,59735548,98267558
+210,The Goonies,1985,114,7.8,Richard Donner,Sean Astin,Josh Brolin,Jeff Cohen,Corey Feldman,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,1985-06-07,19000000,68790604,69649283
+211,The Color Purple,1985,154,7.8,Steven Spielberg,Danny Glover,Whoopi Goldberg,Oprah Winfrey,Margaret Avery,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1985-12-18,15000000,94029472,94029472
+212,The Killing Fields,1984,141,7.8,Roland Joffé,Sam Waterston,Haing S. Ngor,John Malkovich,Julian Sands,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,1984-11-02,16000000,34609720,34609720
+213,Ghostbusters,1984,105,7.8,Ivan Reitman,Bill Murray,Dan Aykroyd,Sigourney Weaver,Harold Ramis,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,1984-06-08,30000000,242604185,295582480
+214,The Right Stuff,1983,193,7.8,Philip Kaufman,Sam Shepard,Scott Glenn,Ed Harris,Dennis Quaid,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1983-10-21,27000000,21500000,21500213
+215,My Fair Lady,1964,170,7.8,George Cukor,Audrey Hepburn,Rex Harrison,Stanley Holloway,Wilfrid Hyde-White,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,,1964-10-22,17000000,72000000,72073063
+216,Roma,2018,135,7.7,Alfonso Cuarón,Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Carlos Peralta,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2018-11-30,15000000,0,1903062
+217,Deadpool 2,2018,119,7.7,David Leitch,Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,416,2018-05-11,110000000,324591735,786362370
+218,The Theory of Everything,2014,123,7.7,James Marsh,Eddie Redmayne,Felicity Jones,Tom Prior,Sophie Perry,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2014-11-07,15000000,35893537,123327692
+219,The Fault in Our Stars,2014,126,7.7,Josh Boone,Shailene Woodley,Ansel Elgort,Nat Wolff,Laura Dern,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2014-06-04,12000000,124872350,307166834
+220,Birdman or (The Unexpected Virtue of Ignorance),2014,119,7.7,Alejandro G. Iñárritu,Michael Keaton,Zach Galifianakis,Edward Norton,Andrea Riseborough,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2014-10-17,18000000,42340598,102544383
+221,Captain America: The Winter Soldier,2014,136,7.7,Anthony Russo,Joe Russo,Chris Evans,Samuel L. Jackson,Scarlett Johansson,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,178,2014-03-28,170000000,259746958,714401889
+222,Nebraska,2013,115,7.7,Alexander Payne,Bruce Dern,Will Forte,June Squibb,Bob Odenkirk,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2013-11-15,12000000,17654912,24761360
+223,Wreck-It Ralph,2012,101,7.7,Rich Moore,John C. Reilly,Jack McBrayer,Jane Lynch,Sarah Silverman,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195,2012-11-01,165000000,189412677,496511521
+224,Midnight in Paris,2011,96,7.7,Woody Allen,Owen Wilson,Rachel McAdams,Kathy Bates,Kurt Fuller,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,,2011-05-20,30000000,56816662,162051975
+225,The Lego Movie,2014,100,7.7,Christopher Miller,Phil Lord,Chris Pratt,Will Ferrell,Elizabeth Banks,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2014-02-06,60000000,258364131,468155841
+226,Gravity,2013,91,7.7,Alfonso Cuarón,Sandra Bullock,George Clooney,Ed Harris,Orto Ignatiussen,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,417,2013-10-03,110000000,274092705,684657731
+227,Star Trek Into Darkness,2013,132,7.7,J.J. Abrams,Chris Pine,Zachary Quinto,Zoe Saldana,Benedict Cumberbatch,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,119,2013-05-16,190000000,228778661,467381584
+228,The Social Network,2010,120,7.7,David Fincher,Jesse Eisenberg,Andrew Garfield,Justin Timberlake,Rooney Mara,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2010-10-01,40000000,96962694,224922135
+229,Skyfall,2012,143,7.7,Sam Mendes,Daniel Craig,Javier Bardem,Naomie Harris,Judi Dench,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,76,2012-10-26,200000000,304360277,1110526981
+230,Silver Linings Playbook,2012,122,7.7,David O. Russell,Bradley Cooper,Jennifer Lawrence,Robert De Niro,Jacki Weaver,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2012-11-16,21000000,132092958,236412453
+231,Argo,2012,120,7.7,Ben Affleck,Ben Affleck,Bryan Cranston,John Goodman,Alan Arkin,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2012-10-11,44500000,136025503,227140757
+232,Frost/Nixon,2008,122,7.7,Ron Howard,Frank Langella,Michael Sheen,Kevin Bacon,Sam Rockwell,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,2008-12-05,29000000,18622031,28452945
+233,Changeling,2008,141,7.7,Clint Eastwood,Angelina Jolie,Colm Feore,Amy Ryan,Gattlin Griffith,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2008-10-24,55000000,35739802,113805580
+234,Flipped,2010,90,7.7,Rob Reiner,Madeline Carroll,Callan McAuliffe,Rebecca De Mornay,Anthony Edwards,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2010-08-06,14000000,1755212,4294635
+235,Zodiac,2007,157,7.7,David Fincher,Jake Gyllenhaal,Robert Downey Jr.,Mark Ruffalo,Anthony Edwards,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,672,2007-03-02,85000000,33080084,83027938
+236,Lucky Number Slevin,2006,110,7.7,Paul McGuigan,Josh Hartnett,Ben Kingsley,Morgan Freeman,Lucy Liu,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2006-04-07,27000000,22495466,55495466
+237,Tangled,2010,100,7.7,Nathan Greno,Byron Howard,Mandy Moore,Zachary Levi,Donna Murphy,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,2010-11-24,260000000,200821936,582440151
+238,Brokeback Mountain,2005,134,7.7,Ang Lee,Jake Gyllenhaal,Heath Ledger,Michelle Williams,Randy Quaid,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,2005-12-09,13900000,83043761,176980863
+239,3:10 to Yuma,2007,122,7.7,James Mangold,Russell Crowe,Christian Bale,Ben Foster,Logan Lerman,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2007-09-07,48000000,53606916,71171825
+240,The Bourne Supremacy,2004,108,7.7,Paul Greengrass,Matt Damon,Franka Potente,Joan Allen,Brian Cox,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,639,2004-07-23,85000000,176087450,311001124
+241,Ray,2004,152,7.7,Taylor Hackford,Jamie Foxx,Regina King,Kerry Washington,Clifton Powell,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,2004-10-29,40000000,75305995,124823094
+242,Harry Potter and the Goblet of Fire,2005,157,7.7,Mike Newell,Daniel Radcliffe,Emma Watson,Rupert Grint,Eric Sykes,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,232,2005-11-18,150000000,291147424,886112502
+243,Man on Fire,2004,146,7.7,Tony Scott,Denzel Washington,Christopher Walken,Dakota Fanning,Radha Mitchell,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2004-04-23,60000000,77906816,130968579
+244,Coraline,2009,100,7.7,Henry Selick,Dakota Fanning,Teri Hatcher,John Hodgman,Jennifer Saunders,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,2009-02-06,60000000,116472020,167222848
+245,The Last Samurai,2003,154,7.7,Edward Zwick,Tom Cruise,Ken Watanabe,Billy Connolly,William Atherton,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,297,2003-12-05,140000000,111110575,456810575
+246,I Am Sam,2001,132,7.7,Jessie Nelson,Sean Penn,Michelle Pfeiffer,Dakota Fanning,Dianne Wiest,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2001-12-28,22000000,40270895,92542418
+247,Black Hawk Down,2001,144,7.7,Ridley Scott,Josh Hartnett,Ewan McGregor,Tom Sizemore,Eric Bana,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,546,2001-12-28,95000000,108638745,159691085
+248,Road to Perdition,2002,117,7.7,Sam Mendes,Tom Hanks,Tyler Hoechlin,Rob Maxey,Liam Aiken,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,710,2002-07-12,80000000,104054514,183354514
+249,"O Brother, Where Art Thou?",2000,107,7.7,Joel Coen,Ethan Coen,George Clooney,John Turturro,Tim Blake Nelson,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2000-09-15,26000000,45506619,75763814
+250,"South Park: Bigger, Longer & Uncut",1999,81,7.7,Trey Parker,Trey Parker,Matt Stone,Mary Kay Bergman,Isaac Hayes,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,1999-06-30,21000000,52037603,52037603
+251,Training Day,2001,122,7.7,Antoine Fuqua,Denzel Washington,Ethan Hawke,Scott Glenn,Tom Berenger,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2001-10-05,45000000,76261036,104505352
+252,Being John Malkovich,1999,113,7.7,Spike Jonze,John Cusack,Cameron Diaz,Catherine Keener,John Malkovich,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,1999-10-29,13000000,22858926,32382381
+253,The Fifth Element,1997,126,7.7,Luc Besson,Bruce Willis,Milla Jovovich,Gary Oldman,Ian Holm,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,552,1997-05-09,95000000,63570862,263892271
+254,Hamlet,1996,242,7.7,Kenneth Branagh,Kenneth Branagh,Julie Christie,Derek Jacobi,Kate Winslet,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1996-12-25,18000000,4501094,7129670
+255,Philadelphia,1993,125,7.7,Jonathan Demme,Tom Hanks,Denzel Washington,Roberta Maxwell,Buzz Kilman,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1993-12-22,26000000,77324422,201324422
+256,The Muppet Christmas Carol,1992,85,7.7,Brian Henson,Michael Caine,Kermit the Frog,Dave Goelz,Miss Piggy,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,1992-12-11,12000000,27379507,31724550
+257,The Last of the Mohicans,1992,112,7.7,Michael Mann,Daniel Day-Lewis,Madeleine Stowe,Russell Means,Eric Schweig,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1992-09-25,40000000,75505856,75505856
+258,Glengarry Glen Ross,1992,100,7.7,James Foley,Al Pacino,Jack Lemmon,Alec Baldwin,Alan Arkin,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,1992-09-30,12500000,10725228,10725650
+259,A Few Good Men,1992,138,7.7,Rob Reiner,Tom Cruise,Jack Nicholson,Demi Moore,Kevin Bacon,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1992-12-11,33000000,141340178,236500000
+260,The Last Emperor,1987,163,7.7,Bernardo Bertolucci,John Lone,Joan Chen,Peter O'Toole,Ruocheng Ying,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,1987-11-20,25000000,43984987,44005435
+261,The Verdict,1982,129,7.7,Sidney Lumet,Paul Newman,Charlotte Rampling,Jack Warden,James Mason,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1982-12-08,16000000,53977250,53977250
+262,Star Trek II: The Wrath of Khan,1982,113,7.7,Nicholas Meyer,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1982-06-04,12000000,78912963,95800000
+263,First Blood,1982,93,7.7,Ted Kotcheff,Sylvester Stallone,Brian Dennehy,Richard Crenna,Bill McKinney,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1982-10-22,14000000,47212904,125212904
+264,Just Mercy,2019,137,7.6,Destin Daniel Cretton,Michael B. Jordan,Jamie Foxx,Brie Larson,Charlie Pye Jr.,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2019-12-25,25000000,36001502,50901502
+265,Baby Driver,2017,113,7.6,Edgar Wright,Ansel Elgort,Jon Bernthal,Jon Hamm,Eiza González,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2017-06-28,34000000,107825862,226977991
+266,Only the Brave,2017,134,7.6,Joseph Kosinski,Josh Brolin,Miles Teller,Jeff Bridges,Jennifer Connelly,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2017-10-20,38000000,18340051,24555177
+267,Bridge of Spies,2015,142,7.6,Steven Spielberg,Tom Hanks,Mark Rylance,Alan Alda,Amy Ryan,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,2015-10-14,40000000,72313754,162498338
+268,Incredibles 2,2018,118,7.6,Brad Bird,Craig T. Nelson,Holly Hunter,Sarah Vowell,Huck Milner,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,2018-06-15,200000000,608581744,1242805359
+269,Moana,2016,107,7.6,Ron Clements,John Musker,Don Hall,Chris Williams,Auli'i Cravalho,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,235,2016-01-27,150000000,248757044,684654985
+270,Sicario,2015,121,7.6,Denis Villeneuve,Emily Blunt,Josh Brolin,Benicio Del Toro,Jon Bernthal,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2015-09-17,30000000,46889293,84264182
+271,Creed,2015,133,7.6,Ryan Coogler,Michael B. Jordan,Sylvester Stallone,Tessa Thompson,Phylicia Rashad,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,2015-11-25,37000000,109767581,174167581
+272,Hell or High Water,2016,102,7.6,David Mackenzie,Chris Pine,Ben Foster,Jeff Bridges,Gil Birmingham,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2016-08-12,12000000,27007844,37566117
+273,Philomena,2013,98,7.6,Stephen Frears,Judi Dench,Steve Coogan,Sophie Kennedy Clark,Mare Winningham,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2013-11-01,12000000,37709979,98963392
+274,Dawn of the Planet of the Apes,2014,130,7.6,Matt Reeves,Gary Oldman,Keri Russell,Andy Serkis,Kodi Smit-McPhee,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179,2014-07-09,170000000,208545589,710644566
+275,End of Watch,2012,109,7.6,David Ayer,Jake Gyllenhaal,Michael Peña,Anna Kendrick,America Ferrera,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2012-09-20,15000000,41003371,57586606
+276,Despicable Me,2010,95,7.6,Pierre Coffin,Chris Renaud,Steve Carell,Jason Segel,Russell Brand,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,934,2010-07-09,69000000,252756705,544707293
+277,Kick-Ass,2010,117,7.6,Matthew Vaughn,Aaron Taylor-Johnson,Nicolas Cage,Chloë Grace Moretz,Garrett M. Brown,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2010-04-16,28000000,48071303,97531134
+278,Moneyball,2011,133,7.6,Bennett Miller,Brad Pitt,Robin Wright,Jonah Hill,Philip Seymour Hoffman,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,2011-09-23,50000000,75605492,111300835
+279,Zombieland,2009,88,7.6,Ruben Fleischer,Jesse Eisenberg,Emma Stone,Woody Harrelson,Abigail Breslin,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,2009-10-02,23600000,75590286,102236596
+280,Sherlock Holmes,2009,128,7.6,Guy Ritchie,Robert Downey Jr.,Jude Law,Rachel McAdams,Mark Strong,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,576,2009-12-25,90000000,209028679,498438212
+281,Seven Pounds,2008,123,7.6,Gabriele Muccino,Will Smith,Rosario Dawson,Woody Harrelson,Michael Ealy,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2008-12-19,54000000,69951824,166617328
+282,Eastern Promises,2007,100,7.6,David Cronenberg,Naomi Watts,Viggo Mortensen,Armin Mueller-Stahl,Josef Altin,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2007-09-14,50000000,17181265,56077088
+283,Stardust,2007,127,7.6,Matthew Vaughn,Charlie Cox,Claire Danes,Sienna Miller,Ian McKellen,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,907,2007-08-10,70000000,38634938,137022245
+284,Inside Man,2006,129,7.6,Spike Lee,Denzel Washington,Clive Owen,Jodie Foster,Christopher Plummer,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2006-03-24,50000000,88634237,185798265
+285,Gone Baby Gone,2007,114,7.6,Ben Affleck,Morgan Freeman,Ed Harris,Casey Affleck,Michelle Monaghan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,2007-10-19,19000000,20300218,34359030
+286,The Illusionist,2006,110,7.6,Neil Burger,Edward Norton,Jessica Biel,Paul Giamatti,Rufus Sewell,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,,2006-08-18,16500000,39868642,83792062
+287,Harry Potter and the Half-Blood Prince,2009,153,7.6,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2009-07-15,250000000,302854063,926492031
+288,Match Point,2005,124,7.6,Woody Allen,Scarlett Johansson,Jonathan Rhys Meyers,Emily Mortimer,Matthew Goode,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,2005-12-28,15000000,23089926,87950928
+289,Watchmen,2009,162,7.6,Zack Snyder,Jackie Earle Haley,Patrick Wilson,Carla Gugino,Malin Akerman,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,306,2009-03-06,138000000,107509799,186976250
+290,Lord of War,2005,122,7.6,Andrew Niccol,Nicolas Cage,Ethan Hawke,Jared Leto,Bridget Moynahan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2005-09-16,42000000,24149632,60437727
+291,"Synecdoche, New York",2008,124,7.6,Charlie Kaufman,Philip Seymour Hoffman,Samantha Morton,Michelle Williams,Catherine Keener,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2008-10-24,20000000,3083538,4383538
+292,Un long dimanche de fiançailles,2004,133,7.6,Jean-Pierre Jeunet,Audrey Tautou,Gaspard Ulliel,Jodie Foster,Dominique Pinon,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,,2004-11-26,55000000,6167817,69722444
+293,21 Grams,2003,124,7.6,Alejandro G. Iñárritu,Sean Penn,Benicio Del Toro,Naomi Watts,Danny Huston,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,2003-11-21,20000000,16248701,59667625
+294,Finding Neverland,2004,106,7.6,Marc Forster,Johnny Depp,Kate Winslet,Julie Christie,Radha Mitchell,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,2004-11-12,25000000,51676606,115036108
+295,The Butterfly Effect,2004,113,7.6,Eric Bress,J. Mackye Gruber,Ashton Kutcher,Amy Smart,Melora Walters,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,,2004-01-23,13000000,57924679,95638592
+296,The Royal Tenenbaums,2001,110,7.6,Wes Anderson,Gene Hackman,Gwyneth Paltrow,Anjelica Huston,Ben Stiller,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2001-12-14,28000000,52353636,71430876
+297,The Others,2001,101,7.6,Alejandro Amenábar,Nicole Kidman,Christopher Eccleston,Fionnula Flanagan,Alakina Mann,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,,2001-08-10,17000000,96545842,207788211
+298,Blow,2001,124,7.6,Ted Demme,Johnny Depp,Penélope Cruz,Franka Potente,Rachel Griffiths,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2001-04-06,30000000,52990775,83282296
+299,Enemy at the Gates,2001,131,7.6,Jean-Jacques Annaud,Jude Law,Ed Harris,Joseph Fiennes,Rachel Weisz,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,661,2001-03-16,85000000,51396781,96971293
+300,Minority Report,2002,145,7.6,Steven Spielberg,Tom Cruise,Colin Farrell,Samantha Morton,Max von Sydow,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,467,2002-06-21,102000000,132024714,358824714
+301,The Hurricane,1999,146,7.6,Norman Jewison,Denzel Washington,Vicellous Shannon,Deborah Kara Unger,Liev Schreiber,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,1999-12-29,38000000,50699241,73956241
+302,The Thin Red Line,1998,170,7.6,Terrence Malick,Jim Caviezel,Sean Penn,Nick Nolte,Kirk Acevedo,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,1998-12-23,52000000,36400491,97709034
+303,Mulan,1998,88,7.6,Tony Bancroft,Barry Cook,Ming-Na Wen,Eddie Murphy,BD Wong,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,587,1998-06-19,90000000,120620254,303500000
+304,Fear and Loathing in Las Vegas,1998,118,7.6,Terry Gilliam,Johnny Depp,Benicio Del Toro,Tobey Maguire,Michael Lee Gogin,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1998-05-22,18500000,10680275,13711903
+305,Dark City,1998,100,7.6,Alex Proyas,Rufus Sewell,Kiefer Sutherland,Jennifer Connelly,William Hurt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,,1998-02-27,27000000,14435076,27257061
+306,Sleepers,1996,147,7.6,Barry Levinson,Robert De Niro,Kevin Bacon,Brad Pitt,Jason Patric,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1996-10-18,44000000,53300852,165600852
+307,Sense and Sensibility,1995,136,7.6,Ang Lee,Emma Thompson,Kate Winslet,James Fleet,Tom Wilkinson,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,1995-12-11,16500000,42993774,134993774
+308,Die Hard: With a Vengeance,1995,128,7.6,John McTiernan,Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,592,1995-05-19,90000000,100012499,366101666
+309,The Bridges of Madison County,1995,135,7.6,Clint Eastwood,Clint Eastwood,Meryl Streep,Annie Corley,Victor Slezak,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,1995-06-02,22000000,71516617,175516617
+310,Home Alone,1990,103,7.6,Chris Columbus,Macaulay Culkin,Joe Pesci,Daniel Stern,John Heard,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,1990-11-16,15000000,285761243,476678838
+311,The Godfather: Part III,1990,162,7.6,Francis Ford Coppola,Al Pacino,Diane Keaton,Andy Garcia,Talia Shire,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1990-12-25,54000000,66666062,66785536
+312,Lethal Weapon,1987,109,7.6,Richard Donner,Mel Gibson,Danny Glover,Gary Busey,Mitchell Ryan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1987-03-06,15000000,65192350,120192350
+313,Close Encounters of the Third Kind,1977,138,7.6,Steven Spielberg,Richard Dreyfuss,François Truffaut,Teri Garr,Melinda Dillon,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,1977-11-16,20000000,169100479,340800479
