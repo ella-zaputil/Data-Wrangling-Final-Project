@@ -14,10 +14,6 @@ My Data Wrangling course at the University of Iowa tasked me with the project of
 4. How does release timing affect film's revenue?
 5. Can revenue be predicted based on historical data?
 
-## 🌐 Dataset Sources
-- Scraped from: The Numbers – Movie Budgets (https://www.the-numbers.com/movie/budgets)
-- Downloaded from: Kaggle - IMDB Movies Dataset (https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
-
 ## 🧾 Notebooks
 - Notebook that scrapes and previews movie data.
 - Notebook that begins analysis using different techniques including machine learning
