@@ -23,5 +23,5 @@ The `data` folder contains the raw datasets used in the analysis, a data diction
 ## 🧾 Notebooks
 The `notebooks` folder contains all coding files used for data cleaning, analysis, modeling, and visualization.
 
-## 📊 Documents
+## 📋 Documents
 The `docs` folder includes analysis summaries, supporting materials, and other documents relevant to the project.
