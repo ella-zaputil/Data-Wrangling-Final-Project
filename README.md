@@ -7,14 +7,14 @@ My Data Wrangling course at the University of Iowa tasked me with the project of
 3. [Documents](docs)
 4. [Notebooks](notebook)
 
-## Proposed Analysis
+## 📈 Proposed Analysis
 1. How does production budget impact film's overall success and revenue?
 2. What variables most positively & negatively affect film's revenue?
 3. How much does star power impact a film's overall success?
 4. How does release timing affect film's revenue?
 5. Can revenue be predicted based on historical data?
 
-## Methodologies  
+## 💻 Methodologies  
 This project was developed in Python using Jupyter Notebook and involved a range of analytical techniques. I began by collecting data through web scraping with Selenium, followed by cleaning and exploring the data through univariate and bivariate analysis. I conducted hypothesis testing to examine relationships between variables and applied multiple machine learning regression models to uncover predictive insights. Additionally, I used time series forecasting to project trends and created data visualizations to clearly communicate findings.
 
 ## 📊 Data
