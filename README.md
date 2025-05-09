@@ -2,10 +2,10 @@
 My Data Wrangling course at the University of Iowa tasked me with the project of proposing analysis questions, finding relevant data, and using various techniques to attempt to answer these questions. My project aims to explore the key drivers of movie revenue, providing valuable insights into how various aspects of a film can contribute to its financial success and offering predictions for future industry trends.
 
 ## 📚 Table of Contents
-1. [Data](#data)
-2. [Dataset Source](#dataset-sources)
-3. [Data Dictionary](#data-dictionary)
-4. [Notebooks](#notebooks)
+1. [Project Introduction](README.md)
+2. [Data](data)
+3. [Documents](docs)
+4. [Notebooks](notebook)
 
 ## Proposed Analysis
 1. How does production budget impact film's overall success and revenue?
@@ -14,10 +14,14 @@ My Data Wrangling course at the University of Iowa tasked me with the project of
 4. How does release timing affect film's revenue?
 5. Can revenue be predicted based on historical data?
 
-## 🧾 Notebooks
-- Notebook that scrapes and previews movie data.
-- Notebook that begins analysis using different techniques including machine learning
-- Notebook with final code that completes analysis and answers all questions
+## Methodologies  
+This project was developed in Python using Jupyter Notebook and involved a range of analytical techniques. I began by collecting data through web scraping with Selenium, followed by cleaning and exploring the data through univariate and bivariate analysis. I conducted hypothesis testing to examine relationships between variables and applied multiple machine learning regression models to uncover predictive insights. Additionally, I used time series forecasting to project trends and created data visualizations to clearly communicate findings.
 
-## 📊 Data Dictionary
-See `docs/data_dictionary.md` for details on key columns.
+## 📊 Data
+The `data` folder contains the raw datasets used in the analysis, a data dictionary explaining each variable, and documentation of all data sources.
+
+## 🧾 Notebooks
+The `notebooks` folder contains all coding files used for data cleaning, analysis, modeling, and visualization.
+
+## 📊 Documents
+The `docs` folder includes analysis summaries, supporting materials, and other documents relevant to the project.
